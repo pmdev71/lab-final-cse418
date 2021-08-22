@@ -1,0 +1,15 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(238, 237, 236);
+}
+
+.contacts .fab {
+    color: white;
+    border: 1px solid #fff;
+    padding: 15px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: 2%;
+    margin-top: 2%;
+}
